@@ -36,7 +36,6 @@ loadtest_results.txt
 
 # nitro-replayer
 nitro-replayer/target
-nitro-replayer/Cargo.lock
 # nitro mac artifact
 x/nitro/replay/libnitro_replayer.dylib
 
@@ -44,3 +43,5 @@ x/nitro/replay/libnitro_replayer.dylib
 parallelization/**/artifacts/
 parallelization/**/target/
 parallelization/**/Cargo.lock
+
+result

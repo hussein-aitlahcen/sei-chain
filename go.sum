@@ -657,6 +657,10 @@ github.com/huandu/xstrings v1.2.0/go.mod h1:DvyZB1rfVYsBIigL8HwpZgxHwXozlTgGqn63
 github.com/hudl/fargo v1.3.0/go.mod h1:y3CKSmjA+wD2gak7sUSXTAoopbhU08POFhmITJgmKTg=
 github.com/huin/goupnp v1.0.0/go.mod h1:n9v9KO1tAxYH82qOn+UTIFQDmx5n1Zxd/ClZDMX7Bnc=
 github.com/huin/goutil v0.0.0-20170803182201-1ca381bf3150/go.mod h1:PpLOETDnJ0o3iZrZfqZzyLl6l7F3c6L1oWn7OICBi6o=
+github.com/hussein-aitlahcen/sei-cosmos v0.0.0-20230221222813-95716f6af927 h1:hSCtuMvd1AqTb02/jRR+NsiwEGCUeWP6ypESoYeQ6iI=
+github.com/hussein-aitlahcen/sei-cosmos v0.0.0-20230221222813-95716f6af927/go.mod h1:X3iRZlMnjPHrbpSZlkuQOgEknz0GNiGV6J//PLSovsM=
+github.com/hussein-aitlahcen/sei-tendermint-bn v0.0.0-20230221234538-ed3b403de224 h1:4B8K8Rb8OAmIenMTQmosFlMz/WspylB+ihvHFsWtvEw=
+github.com/hussein-aitlahcen/sei-tendermint-bn v0.0.0-20230221234538-ed3b403de224/go.mod h1:Tv1YfoEAuemWunKixB13eWAgxUZvgw2g4KTZG54VfEw=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/ianlancetaylor/demangle v0.0.0-20200824232613-28f6c0f3b639/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/imdario/mergo v0.3.4/go.mod h1:2EnlNZ0deacrJVfApfmtdGgDfMuh/nq6Ok1EcJh5FfA=
@@ -1066,12 +1070,8 @@ github.com/seccomp/libseccomp-golang v0.9.2-0.20210429002308-3879420cc921/go.mod
 github.com/securego/gosec/v2 v2.11.0 h1:+PDkpzR41OI2jrw1q6AdXZCbsNGNGT7pQjal0H0cArI=
 github.com/securego/gosec/v2 v2.11.0/go.mod h1:SX8bptShuG8reGC0XS09+a4H2BoWSJi+fscA+Pulbpo=
 github.com/segmentio/fasthash v1.0.3/go.mod h1:waKX8l2N8yckOgmSsXJi7x1ZfdKZ4x7KRMzBtS3oedY=
-github.com/sei-protocol/sei-cosmos v0.1.430 h1:pES4tltIoBaQzg8OYzjDWS790o+uImpits5Wes0I0PU=
-github.com/sei-protocol/sei-cosmos v0.1.430/go.mod h1:luUxbQqdQ/xHQi2iSHQjsGV22644e0omq1kFlxwnEoc=
 github.com/sei-protocol/sei-iavl v0.0.3 h1:01eZo2RvPrp9wtf+fgmyKiGhIIaV7KY1Shg/M94WXZY=
 github.com/sei-protocol/sei-iavl v0.0.3/go.mod h1:7PfkEVT5dcoQE+s/9KWdoXJ8VVVP1QpYYPLdxlkSXFk=
-github.com/sei-protocol/sei-tendermint v0.1.172 h1:JxPEqOvLE0AD1M8OqQb7JkaMsVay4dgZuq4gB7ntqQM=
-github.com/sei-protocol/sei-tendermint v0.1.172/go.mod h1:+BtDvAwTkE64BlxzpH9ZP7S6vUYT9wRXiZa/WW8/o4g=
 github.com/sei-protocol/sei-tm-db v0.0.5 h1:3WONKdSXEqdZZeLuWYfK5hP37TJpfaUa13vAyAlvaQY=
 github.com/sei-protocol/sei-tm-db v0.0.5/go.mod h1:Cpa6rGyczgthq7/0pI31jys2Fw0Nfrc+/jKdP1prVqY=
 github.com/sei-protocol/sei-wasmd v0.0.1 h1:dRvdapc1sqWxhIB2+DKS5LfilFjOsaFwWkGkSWwQIow=
